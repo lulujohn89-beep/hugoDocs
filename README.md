@@ -11,7 +11,7 @@ This is the repository for the [Hugo](https://github.com/gohugoio/hugo) document
 
 Please see the [contributing] section for guidelines, examples, and process.
 
-[bep]: https://github.com/bep
+[bep]: https://github.com/bet
 [spf13]: https://github.com/spf13
 [friends]: https://github.com/gohugoio/hugo/graphs/contributors
 [go]: https://go.dev/
